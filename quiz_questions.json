@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What does BIOS stand for?",
+    "choices": ["Basic Input Output System", "Binary Input Output System", "Basic Integrated Operating System", "Backup Input Output System"],
+    "answer": "Basic Input Output System"
+  },
+  {
+    "question": "What does GUI stand for?",
+    "choices": ["Graphical User Interface", "General User Interface", "Graphical Utility Interface", "Global User Interface"],
+    "answer": "Graphical User Interface"
+  },
+  {
+    "question": "What does CLI stand for?",
+    "choices": ["Command Line Interface", "Control Level Interface", "Common Language Interface", "Computer Level Interface"],
+    "answer": "Command Line Interface"
+  },
+  {
+    "question": "What does API stand for?",
+    "choices": ["Application Programming Interface", "Advanced Programming Interface", "Application Protocol Interface", "Applied Program Interface"],
+    "answer": "Application Programming Interface"
+  },
+  {
+    "question": "What does OOP stand for?",
+    "choices": ["Object Oriented Programming", "Object Operational Programming", "Ordered Object Programming", "Oriented Object Protocol"],
+    "answer": "Object Oriented Programming"
+  },
+  {
+    "question": "What is the full form of SQL?",
+    "choices": ["Structured Query Language", "Simple Query Language", "Standard Query Logic", "Structured Quick Language"],
+    "answer": "Structured Query Language"
+  },
+  {
+    "question": "What does DNS stand for?",
+    "choices": ["Domain Name System", "Digital Network System", "Dynamic Naming Server", "Domain Network Service"],
+    "answer": "Domain Name System"
+  },
+  {
+    "question": "What does FTP stand for?",
+    "choices": ["File Transfer Protocol", "File Tracking Protocol", "Fast Transfer Program", "File Transmission Protocol"],
+    "answer": "File Transfer Protocol"
+  },
+  {
+    "question": "What does UI stand for?",
+    "choices": ["User Interface", "Universal Interface", "Utility Interface", "Unified Interaction"],
+    "answer": "User Interface"
+  },
+  {
+    "question": "What does UX stand for?",
+    "choices": ["User Experience", "Utility Experience", "Universal Experience", "User Execution"],
+    "answer": "User Experience"
+  }
+]
